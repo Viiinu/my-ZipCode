@@ -43,7 +43,7 @@ Este repositório contém um projeto desenvolvido em **Java** para realizar cons
 1. Clone o repositório e bra o projeto no IntelliJ e execute a classe Main clicando no botão ▶️ ao lado do método main.
 
 ``bash
-git clone https://github.com/seu-usuario/seu-repositorio.git``
+git clone https://github.com/Viiinu/my-ZipCode.git``
 
 ---
 
