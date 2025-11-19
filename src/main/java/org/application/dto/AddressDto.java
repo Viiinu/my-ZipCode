@@ -98,17 +98,12 @@ public class AddressDto {
 
     @Override
     public String toString() {
-        return "AddressDto{" +
-                "cep='" + cep + '\'' +
-                ", logradouro='" + logradouro + '\'' +
-                ", complemento='" + complemento + '\'' +
-                ", bairro='" + bairro + '\'' +
-                ", localidade='" + localidade + '\'' +
-                ", uf='" + uf + '\'' +
-                ", ibge='" + ibge + '\'' +
-                ", gia='" + gia + '\'' +
-                ", ddd='" + ddd + '\'' +
-                ", siafi='" + siafi + '\'' +
-                '}';
+        return "Endereço encontrado: " +
+                "cep: " + cep + ",\n" +
+                "logradouro: " + logradouro + ",\n" +
+                "bairro: " + bairro + ",\n" +
+                "localidade: " + localidade + ",\n" +
+                "uf: " + uf + ",\n" +
+                "ddd: " + ddd;
     }
 }
