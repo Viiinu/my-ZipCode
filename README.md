@@ -23,16 +23,18 @@ Este repositório contém um projeto desenvolvido em **Java** para realizar cons
 
 ## 📁 Estrutura do projeto
 
+```text
 /src
-  └── main
-      └── java
-          └──org
-             ├──application
-                ├── dto
-                │   └── Endereco.java
-                ├── service
-                │   └── ApiService.java
-                └── Main.java
+ └── main
+     └── java
+         └── org
+             ├── application
+             ├── dto
+             │   └── Endereco.java
+             ├── service
+             │   └── ApiService.java
+             └── Main.java
+```
 
 ---
 
